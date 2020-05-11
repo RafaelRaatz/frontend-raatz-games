@@ -8,9 +8,9 @@ function Menu() {
     return (
 
 
-        <div class="menu">
+        <div className="menu">
 
-            <div class="container">
+            <div className="container">
 
                 <ul>
                     <li>Home</li>

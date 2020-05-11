@@ -6,20 +6,20 @@ import logo from '../../images/logo.png'
 
 function Header() {
     return (
-        <div class="container">
+        <div className="container">
 
             <header>
 
 
 
-                <div class="logo">
+                <div className="logo">
 
                     <img className="logoImg" src={logo} alt="" />
 
                 </div>
-                <div class="text-logo">
+                <div className="text-logo">
 
-                    <span class="logo-title">Raatz Games &copy;</span>
+                    <span className="logo-title">Raatz Games &copy;</span>
 
                     <p>O melhor site de notícias de games do mundo.</p>
 

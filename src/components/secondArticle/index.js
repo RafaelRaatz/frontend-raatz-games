@@ -7,19 +7,19 @@ import thirdImg from '../../images/god-of-war.jpg'
 function SecondArticle() {
     return (
 
-        <div class="container">
+        <div className="container">
             <hr />
             <div>
-                <img class="thumb-second-article" src={thirdImg} alt="God of war news" />
+                <img className="thumb-second-article" src={thirdImg} alt="God of war news" />
             </div>
 
-            <div class="text-second-article">
+            <div className="text-second-article">
                 <p>"Eu vivi nas sombras dos deuses por tempo demais! <br /> O tempo dos deuses chegou ao fim!"
 
                     </p>
             </div>
 
-            <div class="second-text-second-article">
+            <div className="second-text-second-article">
                 <p> Kratos - God of War </p>
 
             </div>

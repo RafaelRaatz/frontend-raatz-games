@@ -16,7 +16,7 @@ function App() {
 
       <Menu />
 
-      <section class="main">
+      <section className="main">
 
         <FirstArticle />
 

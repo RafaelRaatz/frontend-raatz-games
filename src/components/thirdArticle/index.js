@@ -9,31 +9,31 @@ import sixthImg from '../../images/pubg.jpg'
 function ThirdArticle() {
     return (
 
-        <div class="container">
+        <div className="container">
 
 
 
             <hr />
 
-            <h2 class="title-article">Destaques da semana</h2>
+            <h2 className="title-article">Destaques da semana</h2>
 
             <p>Fifa 20 leva a melhor no PS4 e Xbox-one entre games de esporte, Mario kart no Switch continua
             imbativel pela quarta semana seguida e Pubg ainda reina no PC, embora o numero de players tenha
             caido consideravelmente.
             </p>
 
-            <div class="third-article">
+            <div className="third-article">
 
 
-                <article class="third-article">
+                <article className="third-article">
 
 
-                    <img class="third-article-thumb" src={fourthImg} alt="Mario news" />
+                    <img className="third-article-thumb" src={fourthImg} alt="Mario news" />
 
 
-                    <img class="third-article-thumb" src={fifthImg} alt="Fifa news" />
+                    <img className="third-article-thumb" src={fifthImg} alt="Fifa news" />
 
-                    <img class="third-article-thumb" src={sixthImg} alt="PUBG news" />
+                    <img className="third-article-thumb" src={sixthImg} alt="PUBG news" />
 
                 </article>
 
