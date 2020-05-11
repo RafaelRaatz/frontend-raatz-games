@@ -4,7 +4,7 @@ import './style.css'
 
 
 
-function Menu() {
+const Menu = () => {
     return (
 
 

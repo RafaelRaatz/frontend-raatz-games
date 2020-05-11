@@ -4,7 +4,7 @@ import thirdImg from '../../images/god-of-war.jpg'
 
 
 
-function SecondArticle() {
+const SecondArticle = () => {
     return (
 
         <div className="container">

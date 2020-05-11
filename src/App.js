@@ -7,7 +7,7 @@ import SecondArticle from './components/secondArticle';
 import ThirdArticle from './components/thirdArticle';
 
 
-function App() {
+const App = () => {
   return (
     <div>
 

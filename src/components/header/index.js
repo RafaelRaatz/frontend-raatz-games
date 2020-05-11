@@ -4,7 +4,7 @@ import logo from '../../images/logo.png'
 
 
 
-function Header() {
+const Header = () => {
     return (
         <div className="container">
 

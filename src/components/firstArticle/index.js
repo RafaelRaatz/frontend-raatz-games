@@ -5,7 +5,7 @@ import secondImg from '../../images/uncharted.jpg'
 
 
 
-function FirstArticle() {
+const FirstArticle = () => {
     return (
         <div className="container">
 

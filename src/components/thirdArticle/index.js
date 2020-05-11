@@ -6,7 +6,7 @@ import sixthImg from '../../images/pubg.jpg'
 
 
 
-function ThirdArticle() {
+const ThirdArticle = () => {
     return (
 
         <div className="container">
