@@ -22,8 +22,9 @@ const SecondArticle = () => {
             <div className="second-text-second-article">
                 <p> Kratos - God of War </p>
 
-            </div>
 
+            </div>
+            <hr />
         </div>
 
 

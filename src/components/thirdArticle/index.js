@@ -13,9 +13,9 @@ const ThirdArticle = () => {
 
 
 
-            <hr />
 
-            <h2 className="title-article">Destaques da semana</h2>
+
+
 
             <p>Fifa 20 leva a melhor no PS4 e Xbox-one entre games de esporte, Mario kart no Switch continua
             imbativel pela quarta semana seguida e Pubg ainda reina no PC, embora o numero de players tenha
@@ -38,7 +38,7 @@ const ThirdArticle = () => {
                 </article>
 
             </div>
-
+            <hr />
 
         </div>
 

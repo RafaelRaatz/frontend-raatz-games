@@ -9,10 +9,6 @@ const FirstArticle = () => {
     return (
         <div className="container">
 
-
-
-            <h2 className="title-article">Destaques do mês</h2>
-
             <div className="first-article">
 
                 <article className="first-article-first-game">

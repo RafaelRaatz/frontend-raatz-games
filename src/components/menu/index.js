@@ -13,6 +13,7 @@ const Menu = () => {
             <div className="container">
 
                 <ul>
+
                     <li>Home</li>
                     <li>Games </li>
                     <li> Consoles </li>
@@ -20,6 +21,7 @@ const Menu = () => {
                     <li> Xbox </li>
                     <li> Nintendo </li>
                     <li> PC </li>
+
                 </ul>
 
             </div>

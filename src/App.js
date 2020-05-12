@@ -5,6 +5,8 @@ import Menu from './components/menu'
 import FirstArticle from './components/firstArticle'
 import SecondArticle from './components/secondArticle';
 import ThirdArticle from './components/thirdArticle';
+import SectionTitle from './components/sectionTitle'
+import Footer from './components/footer'
 
 
 const App = () => {
@@ -18,11 +20,19 @@ const App = () => {
 
       <section className="main">
 
+        <SectionTitle text="Destaques do mês" />
+
         <FirstArticle />
 
         <SecondArticle />
 
+        <SectionTitle text2="Destaques da semana" />
+
         <ThirdArticle />
+
+        <section>
+          <Footer />
+        </section>
 
 
       </section>
