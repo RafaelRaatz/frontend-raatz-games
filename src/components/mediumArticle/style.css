@@ -1,0 +1,32 @@
+.mediumArticle {
+    display: flex;
+    flex-direction: row;
+}
+
+.mediumArticle .mediumArticleGame{
+    margin-right: 20px;
+    margin-bottom: 10px;
+    width: 530px;
+}
+
+.title {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.articleDescription {
+    font-size: 0.9em;
+}
+
+.titleArticle {
+    font-size: 1em;
+    font-weight: bold;   
+    margin-bottom: 5px;
+}
+
+.mediumArticleThumb {
+    width: 530px;
+    height: 350px;
+}

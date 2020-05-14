@@ -9,7 +9,17 @@
 
 
 body {
-    font:  Roboto, sans-serif;
+    font:  "Roboto", sans-serif;
     -webkit-font-smoothing: antialiased;
     background-color: aliceblue;
+  }
+
+  .container {
+    width: 1080px;
+    margin: 0 auto;
+  }
+
+  .main {
+    padding-top: 5px;
+    margin-left: 25px;
   }

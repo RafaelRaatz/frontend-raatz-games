@@ -1,0 +1,32 @@
+header {
+    padding: 3px;
+    padding-top: 10px;
+    display: flex;
+    padding-bottom: 8px;
+  }
+  
+  .logoImg {
+    border: 0;
+    height: auto;
+    max-width: 100px;
+  }
+  
+  .logo {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .text-logo {
+    padding-top: 10px;
+    padding-top: 20px;
+  }
+  
+  .text-logo .p {
+    font-size: 0.2em;
+  }
+  
+  .logo-title {
+    font-size: 1.6em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
